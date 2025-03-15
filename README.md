@@ -2,6 +2,9 @@
 
 This project demonstrates a comprehensive object-oriented design for a computer system implemented across three programming languages: C++, Python, and Java. The goal is to showcase object-oriented programming principles, inheritance, and composition using different language paradigms.
 
+## Janji
+Saya Mujtabo Saidamirzoda dengan NIM 2313366 mengerjakan Latihan 3 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
 ## Diagram
 ![alt text](design.png)
 
